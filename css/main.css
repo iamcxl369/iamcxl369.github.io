@@ -1816,7 +1816,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c8ff91;
+  background: #11bbd0;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2679,4 +2679,12 @@ embed {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
+}
+.header {
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://images.alphacoders.com/277/277701.jpg") no-repeat;
+  background-size: cover;
+  background-color: #000;
+  background-position: center;
+  width: 100%;
+  display: table;
 }
