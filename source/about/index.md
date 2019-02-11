@@ -4,7 +4,7 @@ date: 2019-01-31 00:28:36
 type: "about"
 ---
 
-![](https://wxt.sinaimg.cn/thumb300/0062pS6Hgy1fzofb67rl0j311x0lcdmd.jpg)
+![](https://images8.alphacoders.com/595/595874.jpg)
 
 **个人优势**
 ------

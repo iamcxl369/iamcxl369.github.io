@@ -1,8 +1,15 @@
 ---
-title: 擅长领域
+title: 专业领域
+categories: 
+- 专业技能
+tags:
+- Ubuntu
+- Coding
+- Android
+- 散打
 ---
 
-![](https://wxt.sinaimg.cn/thumb300/0062pS6Hgy1fzofa2ekdsj31hc0u0akl.jpg)
+![](http://up.100desk.com/1/pic_source/d1/d5/d8/d1d5d8a94998caa50c6399df3c12187e.jpg)
 
 **0x01.编程培训**
 ------
